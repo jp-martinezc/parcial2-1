@@ -5,7 +5,7 @@ export default {
     hello: "Hola",
     homes: "Casas",
     spaces: "Mis espacios",
-    smart: "Smart Home",
+    smart: "Casa Inteligente",
     username: "Usuario",
     password: "Contraseña",
     login: "Entrar",
@@ -14,5 +14,9 @@ export default {
       "Tu tienes {money, plural, =0 { nada} one {# un millón} other {# millones}}",
     myRooms: "Mis habitaciones",
     stats: "Estadísticas",
+    livingroom:"sala",
+    kitchen:"cocina",
+    dinnerroom:"comedor",
+    misCuartos:"Mis Cuartos",
   },
 };

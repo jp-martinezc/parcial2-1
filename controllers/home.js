@@ -4,7 +4,9 @@ const COLLECTION_NAME = "homes";
 
 async function getHomes() {
   const homes = await db().collection(COLLECTION_NAME).find({}).toArray();
+  console.log(homes);
   return homes;
+ 
 }
 
 async function getHomeById(id) {

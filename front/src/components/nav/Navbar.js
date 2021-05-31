@@ -29,7 +29,7 @@ export const Navbar = ({ setLanguage }) => {
               </Link>
             </div>
             <div className="navbar-nav-controls">
-             {/** here lang selector */  }
+             
             </div>
           </div>
         </div>

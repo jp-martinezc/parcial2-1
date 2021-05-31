@@ -13,5 +13,9 @@ export default {
     example: "You have {money} million",
     myRooms: "My rooms",
     stats: "Stats",
+    livingroom:"Living Room",
+    kitchen:"Kitchen",
+    dinnerroom:"Dinner room",
+    misCuartos:"My rooms",
   },
 };
